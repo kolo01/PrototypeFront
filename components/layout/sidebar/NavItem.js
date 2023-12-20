@@ -1,4 +1,4 @@
-/* eslint-disable @next/next/link-passhref */
+
 /* eslint-disable react/jsx-key */
 import Link from 'next/link';
 import React, { useEffect, useState } from 'react';
